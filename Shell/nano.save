@@ -1,0 +1,1 @@
+"${UserAgent#*=},${Pragma#*=},${Cachecontrol#*=},${Accept#*=},${AcceptEncoding#*=},${AcceptCharset#*=},${AcceptLanguage#*=},${Host#*=},${Cookie#*=},${Connection#*=}"
